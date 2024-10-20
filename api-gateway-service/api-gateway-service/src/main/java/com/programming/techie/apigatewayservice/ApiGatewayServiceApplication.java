@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 @SpringBootApplication
 @EnableEurekaClient
 @RestController
-//Apigateway controller
+
 public class ApiGatewayServiceApplication {
 
     public static void main(String[] args) {
